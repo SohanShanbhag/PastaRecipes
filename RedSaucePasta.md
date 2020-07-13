@@ -1,4 +1,4 @@
-[Main Navigation](MainPage.md)
+[Main Menu](MainPage.md)
 
 Ingredients Of Red Sauce Pasta
 
