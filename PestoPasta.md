@@ -1,4 +1,4 @@
-[Main Navigation](MainPage.md)
+[Main Menu](MainPage.md)
 
 Easy to make, but full of flavor! Good hot or cold!!
 
